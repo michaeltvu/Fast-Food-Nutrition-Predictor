@@ -13,3 +13,6 @@ Welcome to the Fast-Food Nutrition Analyzer! This tool employs a Keras model bui
 ## Important Note:
 
 The Fast-Food Nutrition Analyzer is an experimental tool, and while it excels at recognizing popular fast food items, predictions may not be accurate for all types of images. Feel free to explore the tool and its capabilities, keeping in mind its experimental nature.
+
+## Demo:
+![Demo](https://raw.githubusercontent.com/michaeltvu/Fast-Food-Nutrition-Predictor/main/react-app/demo.gif)
